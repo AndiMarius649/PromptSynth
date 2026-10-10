@@ -1,0 +1,48 @@
+{
+  "Name": "PromptSynth",
+  "Version": "1.0.0",
+  "Factory Info": {
+    "Vendor": "PromptSynth",
+    "URL": "www.yourcompany.com",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB507253795072536E",
+      "Category": "Audio Module Class",
+      "Name": "PromptSynth",
+      "Vendor": "PromptSynth",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD507253795072536E",
+      "Category": "Component Controller Class",
+      "Name": "PromptSynth",
+      "Vendor": "PromptSynth",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
